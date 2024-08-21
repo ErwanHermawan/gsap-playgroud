@@ -1,0 +1,15 @@
+.section-text {
+	padding: 6em 2em;
+}
+
+.section-text-inner {
+	max-width: 960px;
+}
+
+.reveal-text {
+	font-size: 114px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #000;
+	filter: drop-shadow(0 0 0.1rem rgb(255, 255, 255));
+}
